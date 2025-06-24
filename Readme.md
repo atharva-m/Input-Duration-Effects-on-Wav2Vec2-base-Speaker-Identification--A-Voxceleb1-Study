@@ -1,7 +1,7 @@
 # Input Duration Effects on Wav2Vec2-base Speaker Identification – A VoxCeleb1 Study
 
-[![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
+[![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This project investigates how the **input audio duration** affects the **speaker recognition performance** and **computational cost** of the Wav2Vec2-base model when fine-tuned on the **VoxCeleb1** dataset.
 
